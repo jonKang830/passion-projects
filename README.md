@@ -5,7 +5,7 @@ Self-driven passion projects to study analytical and data visualization techniqu
 ## MAL Analysis
 **Completed**  
 
-Create a [powerpoint presentation](https://github.com/jonKang830/passion-projects/blob/main/MAL%20Analysis/mal-pop-viz%20wip.pptx) showing the **visualizations** of various trends from popular anime tv shows on MyAnimeList.  
+Create a [powerpoint presentation](https://github.com/jonKang830/passion-projects/blob/main/MAL%20Analysis/mal-pop-viz%20complete.pptx) showing the **visualizations** of various trends from popular anime tv shows on MyAnimeList. The pdf version is available [here](https://github.com/jonKang830/passion-projects/blob/main/MAL%20Analysis/myanimelist_visualizations.pdf)  
 
 Programs Used:  
 Python - seaborn, pandas, beautifulsoup, sklearn  
